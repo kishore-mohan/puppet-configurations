@@ -1,0 +1,22 @@
+{
+  "CHANGELOG.md": "33799f07b41858ef7fa7edca9e81e029",
+  "CONTRIBUTING.md": "d911815dd7d0d90b90bb35382a6e3298",
+  "Gemfile": "76e5cf207d300602d9738d465c4e9c58",
+  "LICENSE": "a2b09ed4caa4c6b8fb25c294f01b3fc2",
+  "README.md": "67620cbbb54ad61c19a824b59b7adce8",
+  "Rakefile": "63e9f693f39778c86b3aa6bb05fb6d55",
+  "manifests/init.pp": "76d913f85c1d4c6889aa80efd8c442b1",
+  "manifests/install/feature.pp": "1b98a06d724847d95135162578d7d8a8",
+  "manifests/install/package.pp": "3b030761bc2dfcdffb572006b128d044",
+  "manifests/params.pp": "0cb4be1721f629b074fcd2a0ad9dabcc",
+  "metadata.json": "5e1eaf901933fb097f5d1c2eb2312afe",
+  "spec/acceptance/nodesets/windows-2008R2-serverstandard-x64.yml": "50219eac8138cc5d1018c8a8b0ff2cdb",
+  "spec/defines/coverage_spec.rb": "5b6dfa0dd426aca0ccfae23c0a629f0b",
+  "spec/defines/dotnet_spec.rb": "7359a722dadcd6d744024644fe550afe",
+  "spec/defines/four_spec.rb": "caa88b6cc5e130983ffb44f2ac3b5703",
+  "spec/defines/fourfive_spec.rb": "81677b9b2b744193e1ecc3a0d3ccab3a",
+  "spec/defines/three_spec.rb": "fc2110ebab582ad96db9c02d46349594",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "spec/spec_helper_acceptance.rb": "5987e9ecef6dc16cb8bec930c2fb34e7"
+}
